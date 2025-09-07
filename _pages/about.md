@@ -22,7 +22,7 @@ redirect_from:
 #### I am a Ph.D. student in Computer Architecture at the School of Computer Science and Technology, Huazhong University of Science and Technology (HUST), Wuhan, China. I conduct my research in the Information Storage and Applications Laboratory, advised by Prof. YuchongHu, and I am also affiliated with Prof. Dan Feng's research group. I am expected to graduate in May 2026.
 
 
-#### Previously, I received my M.Eng. in Computer Technology from the School of Computer Science, Sichuan University, Chengdu, China. To date, I have (co-)authored 12+ research papers, including 6 as the first or corresponding author, in venues such as ICDE2026, HPDC2025, HPDC2024, CADCG2021, and ICV2022.
+#### Previously, I received my Master’s degree in Computer Technology from the School of Computer Science, Sichuan University, Chengdu, China, in 2019. To date, I have (co-)authored 12+ research papers, including 6 as the first or corresponding author, in venues such as ICDE2026, HPDC2025, HPDC2024, CADCG2021, and ICV2022.
 
  <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) -->
 
@@ -39,8 +39,11 @@ redirect_from:
  
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 I was awarded the HPDC2025 International Conference Travel Award (1,600 USD).
+- *2025.04*: &nbsp;🎉🎉 Our paper ResiReduce has been accepted to Euro-Par 2025 (European Conference on Parallel and Distributed Computing). I contributed as the second author.
+- *2025.03*: &nbsp;🎉🎉 Our paper SAFusion has been accepted to HPDC 2025 (ACM Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work. 
+- *2024.06*: &nbsp;🎉🎉 I was awarded the HPDC2024 International Conference Travel Award (850 USD). 
+- *2024.04*: &nbsp;🎉🎉 Our paper ADTopk has been accepted to HPDC 2024 (ACM Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work. 
 
 
 
@@ -126,7 +129,7 @@ redirect_from:
 - *2020 – 2021*, Chair, 9th CCF Student Chapter, Sichuan University
 
 
-
+<!-- 🎓 -->
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*,  Huazhong University of Science and Technology, Ph.D. in Computer Science and Technology. 
 - *2015.09 - 2019.06*,  Sichuan University, M.Eng. in Computer Technology. 
