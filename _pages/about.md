@@ -17,11 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+#### I am a Ph.D. student in Computer Architecture at the School of Computer Science and Technology, Huazhong University of Science and Technology (HUST), Wuhan, China. I conduct my research in the Information Storage and Applications Laboratory, advised by Prof. YuchongHu, and I am also affiliated with Prof. Dan Feng's research group. I am expected to graduate in May 2026.
 
 
+#### Previously, I received my M.Eng. in Computer Technology from the School of Computer Science, Sichuan University, Chengdu, China. To date, I have (co-)authored 12+ research papers, including 6 as the first or corresponding author, in venues such as ICDE2026, HPDC2025, HPDC2024, CADCG2021, and ICV2022.
+
+ <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) -->
+
+
+# ⌛	 Research Interests
+
+- Computer Architecture
+- Large-Scale High-Performance Distributed Training and Inference
+- Storage for AI (Storage4AI), Systems for AI (System4AI)
+- Large Language Model (LLM) Systems and Storage
+- Computer Vision
+- Person Re-Identification
+
+ 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -79,25 +92,52 @@ My research interest includes neural machine translation and computer vision. I 
 [[Code]](https://dx.doi.org/10.3390/w14172736) [[Preview]]() [[Download]]()
 
 
+<!-- 🎖 -->
+# 🏅 Honors and Awards
+
+### Scholarships and Awards
+- *2022 – 2023*, First-Class Doctoral Academic Scholarship, Huazhong University of Science and Technology
+- *2023 – 2024*, First-Class Doctoral Academic Scholarship, Huazhong University of Science and Technology
+- *2024 – 2025*, Third-Class Doctoral Academic Scholarship, Huazhong University of Science and Technology
+- *2023 - 2024*, Outstanding Graduate Scholarship, Huazhong University of Science and Technology
+- *2023 – 2024*, Doctor of Engineering Training Reform Pilot Scholarship, Huazhong University of Science and Technology
+- *2024 – 2025*, Huawei Scholarship, Huazhong University of Science and Technology
+- *2020 – 2021*, National Scholarship for Graduate Students (Master's Level)
+- *2019–2022*, First-Class Graduate Academic Scholarship, Sichuan University
+- *2016–2017*, First-Class Undergraduate Scholarship
+- *2015–2016*, National Scholarship for Undergraduate Students
 
 
+### Competitions and Awards
+- *HPDC2024* International Conference Travel Award (850 USD)
+- *HPDC2025* International Conference Travel Award (1600 USD)
+- *2023 - 2024*, First Prize, 2nd National College Student Information Storage Technology Competition
+- *2023 - 2024*, Best Paper Award, 3rd Annual Academic Conference, School of Computer Science 
+- *2022 - 2023*, Outstanding Graduate Student Leader, Huazhong University of Science and Technology, 
+- *2021 - 2022*, Outstanding Graduate of Sichuan Province 
+- *2021 - 2022*, Outstanding Student Leader, Sichuan University
+- *2019 – 2020*, Outstanding Graduate Student Leader, Sichuan University
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+### Student Leadership and Service
+- *2022 – 2026*, Secretary of the Communist Youth League Branch (Doctoral Cohort 2201), School of Computer Science, Huazhong University of Science and Technology
+- *2020 – 2021*, Chair, 9th CCF Student Chapter, Sichuan University
 
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
+- *2022.09 - 2026.06 (now)*,  Huazhong University of Science and Technology, Ph.D. in Computer Science and Technology. 
+- *2015.09 - 2019.06*,  Sichuan University, M.Eng. in Computer Technology. 
 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025*, Zhangqiang Ming, ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2025), University of Notre Dame, USA, Oral Presentation.
+- *2024*, Zhangqiang Ming, ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2024), University of Pisa, Italy, Oral Presentation.
+- *2025*, Zhangqiang Ming, 2nd CCF China Storage Conference (ChinaStorage2025), Wuhan, China, Poster Presentation.
+- *2024*, Zhangqiang Ming, 1st CCF China Storage Conference (ChinaStorage2024), Guangzhou, China, Poster Presentation.
+- *2024*, Zhangqiang Ming, 3rd Annual Academic Conference, School of Computer Science, Huazhong University of Science and Technology, Wuhan, China, Oral Presentation.
+- *2021*, Zhangqiang Ming, 11th International Conference on Information Science and Technology (ICIST2021), Chengdu, China, In-person Presentation.
+- *2021*, Zhangqiang Ming, 4th Chinese Conference on Pattern Recognition and Computer Vision (PRCV2021), Beijing, China, In-person Presentation.
 
 
 
