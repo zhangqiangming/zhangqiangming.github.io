@@ -129,13 +129,16 @@ redirect_from:
 - *2020 – 2021*, Chair, 9th CCF Student Chapter, Sichuan University
 
 
+
 <!--📖 🎓 -->
 # 🎓 Educations
 - *2022.09 - 2026.06 (now)*,  Huazhong University of Science and Technology, Ph.D. in Computer Science and Technology. 
 - *2015.09 - 2019.06*,  Sichuan University, M.Eng. in Computer Technology. 
 
 
-# 💬 Invited Talks
+
+<!-- 💬 -->
+# 📑 Invited Talks
 - *2025*, Zhangqiang Ming, ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2025), University of Notre Dame, USA, Oral Presentation.
 - *2024*, Zhangqiang Ming, ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2024), University of Pisa, Italy, Oral Presentation.
 - *2025*, Zhangqiang Ming, 2nd CCF China Storage Conference (ChinaStorage2025), Wuhan, China, Poster Presentation.
@@ -148,22 +151,14 @@ redirect_from:
 
 # 💻 Internships
 ### Research Projects
-
 - *2023.06 – 2027.06*, HUST–H3C Joint Laboratory, Storage Construction Project, Intelligent Computing Center, 
-
 - *2023.08 – 2026.08*, Shenzhen Natural Science Foundation (General Program), Research on Key Storage Technologies for Distributed DNN Training Systems
-
 - *2021.09 – 2024.09*, National Key R&D Program – Young Scientist Project, Research on Reliability Coding Theory and Techniques for Large-Scale Parallel Computing Systems
-
 - *2020.09 – 2023.09*, Shenzhen Natural Science Foundation (General Program), Research on Large-Scale All-Flash Cluster Erasure Coding with Low Redundancy Cost 
-
 - *2019.09 – 2022.04*, National Key R&D Program, Research and Application of Key Technologies for Target Tracking and Re-Localization
 
 
 ### Work Experience/Internships
-
 - *2025.05 – 2026.02*, Intelligent Algorithm Research Institute, China Electronics Hikvision Group, Hangzhou, Zhejiang
-
 - *2021.06 – 2021.09*, Intelligent Algorithm Application Department, Hikvision Research Institute, Chengdu, Sichuan
-
 - *2017.06 – 2018.01*, Product Development Department, Wuhan Tianyu Software Co., Ltd., Wuhan, Hubei
