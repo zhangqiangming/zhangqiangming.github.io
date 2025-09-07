@@ -58,7 +58,7 @@ redirect_from:
 
 
 
--	__`Zhangqiang Ming`__, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	<span style="color:red;">_`Zhangqiang Ming`_</span>, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
