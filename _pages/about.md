@@ -50,11 +50,11 @@ redirect_from:
 
 # 📝 Publications 
 
--	__`Zhangqiang Ming`__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'24__, Acceptance Rate=17.1%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	<span style="color:red;">_`Zhangqiang Ming`_</span>, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'24__, Acceptance Rate=17.1%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
--	__`Zhangqiang Ming`__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'25__, Acceptance Rate=18.7%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	<span style="color:red;">_`Zhangqiang Ming`_</span>, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'25__, Acceptance Rate=18.7%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
@@ -62,38 +62,38 @@ redirect_from:
 
 
 
--	__`Zhangqiang Ming`__, Yuchong Hu, Patrick P. C. Lee, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training." 2026. In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (__ASPLOS'26__, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	<span style="color:red;">_`Zhangqiang Ming`_</span>, Yuchong Hu, Patrick P. C. Lee, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training." 2026. In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (__ASPLOS'26__, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
--	Xinjue Zheng, __`Zhangqiang Ming`__, Yuchong Hu, Wenxiang Zhou, and Dan Feng. "Saving Memory via Residual Reduction for DNN Training with Compressed Communication." 2025. In Proceedings of the European Conference on Parallel Processing (__EuroPar'25__, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	Xinjue Zheng, <span style="color:red;">_`Zhangqiang Ming`_</span>, Yuchong Hu, Wenxiang Zhou, and Dan Feng. "Saving Memory via Residual Reduction for DNN Training with Compressed Communication." 2025. In Proceedings of the European Conference on Parallel Processing (__EuroPar'25__, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
--	__`Zhangqiang Ming`__, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (__ICV22__, CCF-C; IF:3.291) [[Code]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[Preview]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[Download]](https://www.sciencedirect.com/science/article/pii/S0262885622000233)
+-	<span style="color:red;">_`Zhangqiang Ming`_</span>, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (__ICV22__, CCF-C; IF:3.291) [[Code]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[Preview]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[Download]](https://www.sciencedirect.com/science/article/pii/S0262885622000233)
 
 
 
--	__`Zhangqiang Ming`__, Min Zhu, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (__CADCG21__, CCF-A) 
+-	<span style="color:red;">_`Zhangqiang Ming`_</span>, Min Zhu, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (__CADCG21__, CCF-A) 
 [[Code]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[Preview]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[Download]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
 
 
 
--	__`Zhangqiang Ming`__, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[Code]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[Preview]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[Download]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
+-	<span style="color:red;">_`Zhangqiang Ming`_</span>, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[Code]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[Preview]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[Download]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
 
 
-- __`Zhangqiang Ming`__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023).
+- <span style="color:red;">_`Zhangqiang Ming`_</span>, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023).
 [[Code]](https://dx.doi.org/10.3390/ma15207362) [[Preview]]() [[Download]]()
 
 
-- Yong Yang, Chengrui Gao, __`Zhangqiang Ming`__, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748) [[Code]](https://dx.doi.org/10.3390/ma15207362) [[Preview]]() [[Download]]()
+- Yong Yang, Chengrui Gao, <span style="color:red;">_`Zhangqiang Ming`_</span>, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748) [[Code]](https://dx.doi.org/10.3390/ma15207362) [[Preview]]() [[Download]]()
 
 
-- Junlong Cheng,  Chengrui Gao, Changlin Li, __`Zhangqiang Ming`__, Yong Yang, Fengjie Wang, and Min Zhu. "F2RNET: A Full-Resolution Representation Network for Biomedical Image Segmentation." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 2406-2410. IEEE, 2022.
+- Junlong Cheng,  Chengrui Gao, Changlin Li, <span style="color:red;">_`Zhangqiang Ming`_</span>, Yong Yang, Fengjie Wang, and Min Zhu. "F2RNET: A Full-Resolution Representation Network for Biomedical Image Segmentation." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 2406-2410. IEEE, 2022.
 [[Code]](https://dx.doi.org/10.3390/app12199703) [[Preview]]() [[Download]]()
 
 
-- Cheng, Junlong, Chengrui Gao, Hongchun Lu, __`Zhangqiang Ming`__, Yong Yang, and Min Zhu. "PL-Net: progressive learning network for medical image segmentation[J]." Frontiers in Bioengineering and Biotechnology, 2024, 12: 1414605. (2024).
+- Cheng, Junlong, Chengrui Gao, Hongchun Lu, <span style="color:red;">_`Zhangqiang Ming`_</span>, Yong Yang, and Min Zhu. "PL-Net: progressive learning network for medical image segmentation[J]." Frontiers in Bioengineering and Biotechnology, 2024, 12: 1414605. (2024).
 [[Code]](https://dx.doi.org/10.3390/w14172736) [[Preview]]() [[Download]]()
 
 
