@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "ZhangqiangMing"
+title                    : "Zhangqiang Ming(明章强)"
 description              : "Zhangqiang Ming dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "zhangqiang/zhangqiangming.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhangqiang Ming"
+  name             : "Zhangqiang Ming(明章强)"
   avatar           : "images/mzq1000.jpg"
   bio              : "Huazhong University of Science and Technology(HUST)"
   location         : "Wuhan, China"
