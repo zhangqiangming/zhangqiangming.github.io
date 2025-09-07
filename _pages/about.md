@@ -22,7 +22,7 @@ redirect_from:
 #### I am a Ph.D. student in Computer Architecture at the School of Computer Science and Technology, Huazhong University of Science and Technology (HUST), Wuhan, China. I conduct my research in the Information Storage and Applications Laboratory, advised by Prof. YuchongHu, and I am also affiliated with Prof. Dan Feng's research group. I am expected to graduate in May 2026.
 
 
-#### Previously, I received my Master’s degree in Computer Technology from the School of Computer Science, Sichuan University, Chengdu, China, in 2019. To date, I have (co-)authored 12+ research papers, including 6 as the first or corresponding author, in venues such as ICDE2026, HPDC2025, HPDC2024, CADCG2021, and ICV2022.
+#### Previously, I received my Master’s degree in Computer Technology from the School of Computer Science, Sichuan University, Chengdu, China, in 2022. To date, I have (co-)authored 12+ research papers, including 6 as the first or corresponding author, in venues such as ICDE2026, HPDC2025, HPDC2024, CADCG2021, and ICV2022.
 
  <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) -->
 
