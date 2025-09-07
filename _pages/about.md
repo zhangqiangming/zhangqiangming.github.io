@@ -37,13 +37,13 @@ redirect_from:
 - Person Re-Identification
 
  
-
+<!-- 🔥 -->
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 I was awarded the HPDC2025 International Conference Travel Award (1,600 USD).
-- *2025.04*: &nbsp;🎉🎉 Our paper ResiReduce has been accepted to Euro-Par 2025 (European Conference on Parallel and Distributed Computing). I contributed as the second author.
-- *2025.03*: &nbsp;🎉🎉 Our paper SAFusion has been accepted to HPDC 2025 (ACM Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work. 
-- *2024.06*: &nbsp;🎉🎉 I was awarded the HPDC2024 International Conference Travel Award (850 USD). 
-- *2024.04*: &nbsp;🎉🎉 Our paper ADTopk has been accepted to HPDC 2024 (ACM Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work. 
+- *2025.07*: &nbsp;🌻🎉 I was awarded the HPDC2025 International Conference Travel Award (1,600 USD).
+- *2025.04*: &nbsp;🌻🎉 Our paper ResiReduce has been accepted to Euro-Par 2025 (European Conference on Parallel and Distributed Computing). I contributed as the second author.
+- *2025.03*: &nbsp;🌻🎉 Our paper SAFusion has been accepted to HPDC 2025 (ACM Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work. 
+- *2024.06*: &nbsp;🌻🎉 I was awarded the HPDC2024 International Conference Travel Award (850 USD). 
+- *2024.04*: &nbsp;🌻🎉 Our paper ADTopk has been accepted to HPDC 2024 (ACM Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work. 
 
 
 
