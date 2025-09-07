@@ -133,7 +133,7 @@ redirect_from:
 <!--📖 🎓 -->
 # 🎓 Educations
 - *2022.09 - 2026.06 (now)*,  Huazhong University of Science and Technology, Ph.D. in Computer Science and Technology. 
-- *2015.09 - 2019.06*,  Sichuan University, M.Eng. in Computer Technology. 
+- *2015.09 - 2019.06*,  Sichuan University, Master’s degree in Computer Technology. 
 
 
 
