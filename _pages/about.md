@@ -129,8 +129,8 @@ redirect_from:
 - *2020 – 2021*, Chair, 9th CCF Student Chapter, Sichuan University
 
 
-<!-- 🎓 -->
-# 📖 Educations
+<!--📖 🎓 -->
+# 🎓 Educations
 - *2022.09 - 2026.06 (now)*,  Huazhong University of Science and Technology, Ph.D. in Computer Science and Technology. 
 - *2015.09 - 2019.06*,  Sichuan University, M.Eng. in Computer Technology. 
 
