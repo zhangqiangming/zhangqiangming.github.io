@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👨‍🎓 About Me
+
 #### I am a Ph.D. student in Computer Architecture at the School of Computer Science and Technology, Huazhong University of Science and Technology (HUST), Wuhan, China. I conduct my research in the Information Storage and Applications Laboratory, advised by Prof. YuchongHu, and I am also affiliated with Prof. Dan Feng's research group. I am expected to graduate in May 2026.
 
 
