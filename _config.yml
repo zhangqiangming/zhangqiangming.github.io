@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhangqiang Ming"
-description              : "Ph.D., Computer Science and Technology"
+description              : "Ph.D, Computer Science and Technology"
 repository               : "zhangqiang/zhangqiangming.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhangqiang Ming"
   avatar           : "images/mzq1000.jpg"
-  bio              : "Huazhong University of Science and Technology(HUST)"
-  location         : "Wuhan, China"
+  bio              : "HUST"
+  location         : # Wuhan, China
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en"
   email            : "zqming@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhangqiang-Ming"
+  researchgate     : # https://www.researchgate.net/profile/Zhangqiang-Ming
   uri              :
   bitbucket        :
   codepen          :
