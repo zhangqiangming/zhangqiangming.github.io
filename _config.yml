@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+# , Computer Science and Technology
 title                    : "Zhangqiang Ming"
-description              : "Ph.D, Computer Science and Technology"
-repository               : "zhangqiang/zhangqiangming.github.io"
+description              : "Ph.D."
+repository               : "zhangqiangming/zhangqiangming.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
