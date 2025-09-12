@@ -111,9 +111,9 @@ redirect_from:
 - *2023 – 2024*, Doctor of Engineering Training Reform Pilot Scholarship, Huazhong University of Science and Technology
 - *2024 – 2025*, Huawei Scholarship, Huazhong University of Science and Technology
 - *2020 – 2021*, National Scholarship for Graduate Students (Master's Level)
-- *2019–2022*, First-Class Graduate Academic Scholarship, Sichuan University
-- *2016–2017*, First-Class Undergraduate Scholarship
-- *2015–2016*, National Scholarship for Undergraduate Students
+- *2019 – 2022*, First-Class Graduate Academic Scholarship, Sichuan University
+- *2016 – 2017*, First-Class Undergraduate Scholarship
+- *2015 – 2016*, National Scholarship for Undergraduate Students
 
 
 ### Awards
