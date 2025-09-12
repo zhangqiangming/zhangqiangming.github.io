@@ -144,7 +144,7 @@ redirect_from:
 
 
 <!-- 💬 -->
-# 📑 Talks
+# 📑 Invited Talks
 - *2025*, ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2025), University of Notre Dame, USA, Oral Presentation.
 - *2024*, ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2024), University of Pisa, Italy, Oral Presentation.
 - *2025*, 2nd CCF China Storage Conference (ChinaStorage2025), Wuhan, China, Poster Presentation.
