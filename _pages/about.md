@@ -41,6 +41,8 @@ redirect_from:
  
 <!-- 🔥 -->
 # 🔥 News
+- *2025.10*: &nbsp;🌻🎉 Our paper [SSFusion]() has been accepted to ICDE 2026 (The 42st IEEE International Conference on Data
+Engineering ). I am the first author of this work.
 - *2025.07*: &nbsp;🌻🎉 I was awarded the HPDC2025 International Conference Travel Award (1,600 USD).
 - *2025.04*: &nbsp;🌻🎉 Our paper [ResiReduce]() has been accepted to Euro-Par 2025 (European Conference on Parallel and Distributed Computing). I contributed as the second author.
 - *2025.03*: &nbsp;🌻🎉 Our paper [SAFusion]() has been accepted to HPDC 2025 (ACM Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work.
@@ -53,15 +55,13 @@ redirect_from:
 
 # 📝 Publications 
 
--	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'24__, Acceptance Rate=17.1%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
-
+-	__<u>Zhangqiang Ming</u>__, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'25__, Acceptance Rate=18.7%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
-
--	__<u>Zhangqiang Ming</u>__, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'24__, Acceptance Rate=17.1%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
