@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhangqiang Ming"
-  avatar           : "images/mzq1000.jpg"
+  # avatar           : "images/mzq1000.jpg"
+  avatar           : "images/mzq_white_1000.jpg"
   bio              : "HUST"
   location         : # Wuhan, China
   employer         :
