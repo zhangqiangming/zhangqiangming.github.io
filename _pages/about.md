@@ -55,13 +55,13 @@ Engineering ). I am the first author of this work.
 
 # 📝 Publications 
 
--	__<u>Zhangqiang Ming</u>__, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	__<u>Zhangqiang Ming</u>__, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://github.com/zqming-cs)[[Download]](https://github.com/zqming-cs)
 
 
--	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'25__, Acceptance Rate=18.7%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'25__, Acceptance Rate=18.7%, CCF-B, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
--	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'24__, Acceptance Rate=17.1%, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'24__, Acceptance Rate=17.1%, CCF-B, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
@@ -91,7 +91,7 @@ Transactions on Parallel and Distributed Systems (__Submitted__,TPDS, CCF-A).
 
 
 
--	Xinjue Zheng, __<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, and Dan Feng. "Saving Memory via Residual Reduction for DNN Training with Compressed Communication." 2025. In Proceedings of the European Conference on Parallel Processing (__EuroPar'25__, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	Xinjue Zheng, __<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, and Dan Feng. "Saving Memory via Residual Reduction for DNN Training with Compressed Communication." 2025. In Proceedings of the European Conference on Parallel Processing (__EuroPar'25__, CCF-B, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[Download]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 - __<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023).
 [[Code]](https://dx.doi.org/10.3390/ma15207362) [[Preview]]() [[Download]]()
