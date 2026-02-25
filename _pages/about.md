@@ -56,10 +56,10 @@ Engineering). I am the first author of this work.
 
 # 📝 Publications 
 
--	__<u>Zhangqiang Ming</u>__, Rui Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/1_ICDE2026_.pdf)[[Download]](https://zhangqiangming.github.io/papers/1_ICDE2026_.pdf)
-
-
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Zhiyuan Luo, Patrick P. C. Lee, Yuanhao Shu, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training. In Proceedings of the 63dr Design Automation Conference (__DAC'26__, CCF-A, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)[[Download]](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)
+
+
+-	__<u>Zhangqiang Ming</u>__, Rui Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/1_ICDE2026_.pdf)[[Download]](https://zhangqiangming.github.io/papers/1_ICDE2026_.pdf)
 
 
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'25__, Acceptance Rate=18.7%, CCF-B, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/2_HPDC2025_.pdf)[[Download]](https://zhangqiangming.github.io/papers/2_HPDC2025_.pdf)
