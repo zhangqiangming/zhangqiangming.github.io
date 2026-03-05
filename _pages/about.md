@@ -41,7 +41,7 @@ redirect_from:
  
 <!-- 🔥 -->
 # 🔥 News
-- *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026 (The 63rd Design Automation Conference). I am the first author of this work.
+- *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026: The Chips to Systems Conference (The 63rd Design Automation Conference). I am the first author of this work.
 - *2026.02*: &nbsp;🌻🎉 I have been appointed as a Reviewer for IEEE Transactions on Networking (TON).
 - *2025.10*: &nbsp;🌻🎉 Our paper [SSFusion]() has been accepted to ICDE2026 (The 42st IEEE International Conference on Data
 Engineering). I am the first author of this work.
