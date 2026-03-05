@@ -41,7 +41,7 @@ redirect_from:
  
 <!-- 🔥 -->
 # 🔥 News
-- *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026 (The 63dr Design Automation Conference). I am the first author of this work.
+- *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026 (The 63rd Design Automation Conference). I am the first author of this work.
 - *2025.10*: &nbsp;🌻🎉 Our paper [SSFusion]() has been accepted to ICDE2026 (The 42st IEEE International Conference on Data
 Engineering). I am the first author of this work.
 - *2025.07*: &nbsp;🌻🎉 I was awarded the HPDC2025 International Conference Travel Award (1,600 USD).
