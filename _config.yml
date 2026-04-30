@@ -8,7 +8,7 @@
 # Site Settings
 # , Computer Science and Technology
 title                    : "Zhangqiang Ming"
-description              : "Ph.D."
+description              : "Postdoc"
 repository               : "zhangqiangming/zhangqiangming.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,8 +25,8 @@ author:
   name             : "Zhangqiang Ming"
   # avatar           : "images/mzq1000.jpg"
   avatar           : "images/mzq_white_1000.jpg"
-  bio              : "HUST"
-  location         : # Wuhan, China
+  bio              : "CUHK"
+  location         : # Hong Kong
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en"
