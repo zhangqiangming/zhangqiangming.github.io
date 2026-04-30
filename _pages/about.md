@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-#### Previously, I received my MS degree from Sichuan University in 2022. As of now, I have contributed to more than 13 research papers (7 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, CADCG2021, and ICV2022.
+#### Previously, I received my MS degree from Sichuan University in 2022. As of now, I have contributed to more than 13 research papers (7 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, CADCG2021, and ICV2022.
 <!-- <a href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
