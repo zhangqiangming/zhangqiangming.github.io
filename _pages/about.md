@@ -32,7 +32,7 @@ redirect_from:
 
 
 # ⌛	 Research Interests
-- Computer Architecture
+- Computer System Architecture
 - High-Performance Distributed Training and Inference
 - Storage for AI (Storage4AI), Systems for AI (System4AI)
 - Large Language Model (LLM) Systems and Storage
