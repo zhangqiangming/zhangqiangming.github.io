@@ -43,6 +43,7 @@ redirect_from:
 # 🔥 News
 - *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026: The Chips to Systems Conference (The 63rd Design Automation Conference). I am the first author of this work.
 - *2026.02*: &nbsp;🌻🎉 I have been appointed as a Reviewer for IEEE Transactions on Networking (TON).
+- *2026.01*: &nbsp;🌻🎉 Our project won the Third Prize in the 3nd National Information Storage Competition.
 - *2025.10*: &nbsp;🌻🎉 Our paper [SSFusion]() has been accepted to ICDE2026 (The 42st IEEE International Conference on Data
 Engineering). I am the first author of this work.
 - *2025.08*: &nbsp;🌻🎉 I have been invited to serve as a Program Committee Member for the IEEE International Conference on Parallel and Distributed Systems (ICPADS 2025).
