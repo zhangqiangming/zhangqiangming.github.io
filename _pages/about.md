@@ -34,9 +34,9 @@ redirect_from:
 
 # ⌛	 Research Interests
 - Computer System Architecture
+- Storage4AI, System4AI
+- LLM Systems and Storage
 - High-Performance Distributed Training and Inference
-- Storage for AI (Storage4AI), Systems for AI (System4AI)
-- Large Language Model (LLM) Systems and Storage
 - Computer Vision, Person Re-Identification
 
  
