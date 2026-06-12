@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-#### I am currently working as a Postdoctoral Researcher in the Department of Computer Science and Engineering at The Chinese University of Hong Kong, Hong Kong, under the supervision of Prof. [Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/), starting from June 2026. Previously, I was awarded my Ph.D. degree in Computer Architecture from Huazhong University of Science and Technology (HUST), Wuhan, China, in May 2026. My doctoral study was supervised by Prof. [Yuchong Hu](), and I was a member of the research group headed by Prof. [Dan Feng](). I also received my MS degree from Sichuan University in 2022.
+#### I am currently working as a Postdoctoral Researcher in the Department of Computer Science and Engineering at The Chinese University of Hong Kong, Hong Kong, under the supervision of Prof. [Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/), starting from June 2026. Previously, I was awarded my Ph.D. degree in Computer Architecture from Huazhong University of Science and Technology (HUST), Wuhan, China, in June 2026. My doctoral study was supervised by Prof. [Yuchong Hu](), and I was a member of the research group headed by Prof. [Dan Feng](). I also received my MS degree from Sichuan University in June 2022.
 <!--I am a Ph.D. Candidate in Computer Architecture at Huazhong University of Science and Technology (HUST), located in Wuhan. My doctoral research is under the supervision of Prof. [Yuchong Hu](), and I am also affiliated with the research group led by Prof. [Dan Feng](). I expect to graduate in May 2026.-->
 
 
