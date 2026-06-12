@@ -19,11 +19,12 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-#### I am a Ph.D. Candidate in Computer Architecture at Huazhong University of Science and Technology (HUST), located in Wuhan. My doctoral research is under the supervision of Prof. [Yuchong Hu](), and I am also affiliated with the research group led by Prof. [Dan Feng](). I expect to graduate in May 2026.
+#### I am currently working as a Postdoctoral Researcher in the Department of Computer Science and Engineering at The Chinese University of Hong Kong, Hong Kong, under the supervision of Prof. [Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/), starting from June 2026. Previously, I was awarded my Ph.D. degree in Computer Architecture from Huazhong University of Science and Technology (HUST), Wuhan, China, in May 2026. My doctoral study was supervised by Prof. [Yuchong Hu](), and I was a member of the research group headed by Prof. [Dan Feng]().
+<!--I am a Ph.D. Candidate in Computer Architecture at Huazhong University of Science and Technology (HUST), located in Wuhan. My doctoral research is under the supervision of Prof. [Yuchong Hu](), and I am also affiliated with the research group led by Prof. [Dan Feng](). I expect to graduate in May 2026.-->
 
 
 
-#### Previously, I received my MS degree from Sichuan University in 2022. As of now, I have contributed to more than 13 research papers (7 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, CADCG2021, and ICV2022.
+#### Previously, I received my MS degree from Sichuan University in 2022. As of now, I have contributed to more than 13 research papers (8 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CADCG2021, and ICV2022.
 <!-- <a href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
