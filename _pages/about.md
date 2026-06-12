@@ -42,6 +42,8 @@ redirect_from:
  
 <!-- 🔥 -->
 # 🔥 News
+- *2026.06*: &nbsp;🌻🎉 I was awarded the Best Paper Award at the 4th Academic Annual Conference of the School of Computer Science, HUST.
+- *2026.05*: &nbsp;🌻🎉 I successfully passed my doctoral dissertation defense in Computer Architecture at HUST.
 - *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026: The Chips to Systems Conference (The 63rd Design Automation Conference). I am the first author of this work.
 - *2026.02*: &nbsp;🌻🎉 I have been appointed as a Reviewer for IEEE Transactions on Networking (TON).
 - *2026.01*: &nbsp;🌻🎉 Our project won the Third Prize in the 3nd National Information Storage Competition.
@@ -51,6 +53,7 @@ Engineering). I am the first author of this work.
 - *2025.07*: &nbsp;🌻🎉 I was awarded the HPDC2025 International Conference Travel Award (1,600 USD).
 - *2025.04*: &nbsp;🌻🎉 Our paper [ResiReduce]() has been accepted to Euro-Par2025 (The 31st International European Conference on Parallel and Distributed Computing). I contributed as the second author.
 - *2025.03*: &nbsp;🌻🎉 Our paper [SAFusion]() has been accepted to HPDC2025 (The 34th ACM International Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work.
+- *2025.01*: &nbsp;🌻🎉 I was awarded the Best Paper Award at the 3rd Academic Annual Conference of the School of Computer Science, HUST.
 - *2024.12*: &nbsp;🌻🎉 Our project won the First Prize in the 2nd National Information Storage Competition.
 - *2024.06*: &nbsp;🌻🎉 I was awarded the HPDC2024 International Conference Travel Award (850 USD). 
 - *2024.04*: &nbsp;🌻🎉 Our paper [ADTopk]() has been accepted to HPDC2024 (The 33rd International Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work. 
