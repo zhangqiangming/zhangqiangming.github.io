@@ -24,7 +24,7 @@ redirect_from:
 
 
 
-#### As of now, I have contributed to more than 14 research papers (8 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CADCG2021, and ICV2022.
+#### As of now, I have contributed to more than 14 research papers (8 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CADCG, and ICV.
 <!-- <a href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
@@ -42,6 +42,7 @@ redirect_from:
  
 <!-- 🔥 -->
 # 🔥 News
+- *2026.07*: &nbsp;🌻🎉 Our extended [ADTopk]() conference paper has been accepted to ACM TACO: The ACM Transactions on Architecture and Code Optimization Journal. I am the first author of this work.
 - *2026.06*: &nbsp;🌻🎉 I was awarded the Best Paper Award at the 4th Academic Annual Conference of the School of Computer Science, HUST.
 - *2026.05*: &nbsp;🌻🎉 I successfully passed my doctoral dissertation defense in Computer Architecture at HUST.
 - *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026: The Chips to Systems Conference (The 63rd Design Automation Conference). I am the first author of this work.
@@ -62,6 +63,9 @@ Engineering). I am the first author of this work.
 
 
 # 📝 Publications 
+
+-	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Patrick P. C. Lee, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Enabling Efficient All-Dimension Top-k Sparsification for High-Performance Distributed DNN Training Systems."ACM Transactions on Architecture and Code Optimization (__Accepted__, TACO, CCF-A, __Revision__)
+
 
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Zhiyuan Luo, Patrick P. C. Lee, Yuanhao Shu, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training." In Proceedings of the 63rd Design Automation Conference (__DAC'26__, Acceptance Rate=21.7%, CCF-A, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)[[Download]](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)
 
@@ -86,15 +90,10 @@ Engineering). I am the first author of this work.
 -	__<u>Zhangqiang Ming</u>__, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[Preview]](https://zhangqiangming.github.io/papers/6_ReID_.pdf)[[Download]](https://zhangqiangming.github.io/papers/6_ReID_.pdf)
 
 
--	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Patrick P. C. Lee, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Enabling Efficient All-Dimension Top-k Sparsification for High-Performance Distributed DNN Training Systems." Transactions on Architecture and Code Optimization (__Submitted__, TACO, CCF-A, __Revision__)
-
-
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Patrick P. C. Lee, Yuanhao Shu, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "Enabling Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training Systems." Transactions on Parallel and Distributed Systems (__Submitted__, TPDS, CCF-A). 
 
 
-
 -	Xinjue Zheng, __<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, and Dan Feng. "Saving Memory via Residual Reduction for DNN Training with Compressed Communication." 2025. In Proceedings of the European Conference on Parallel Processing (__EuroPar'25__, CCF-B, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/7_Reduce_.pdf)[[Download]](https://zhangqiangming.github.io/papers/7_Reduce_.pdf)
-
 
 
 - __<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023). [[Preview]](https://zhangqiangming.github.io/papers/8_Survey_.pdf)[[Download]](https://zhangqiangming.github.io/papers/8_Survey_.pdf)
@@ -103,9 +102,7 @@ Engineering). I am the first author of this work.
 - Yong Yang, Chengrui Gao, __<u>Zhangqiang Ming</u>__, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748) [[Preview]](https://zhangqiangming.github.io/papers/9_LatLRR_.pdf)[[Download]](https://zhangqiangming.github.io/papers/9_LatLRR_.pdf)
 
 
-
 - Junlong Cheng, Chengrui Gao, Changlin Li, __<u>Zhangqiang Ming</u>__, Yong Yang, Fengjie Wang, and Min Zhu. "F2RNET: A Full-Resolution Representation Network for Biomedical Image Segmentation." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 2406-2410. IEEE, 2022. [[Preview]](https://zhangqiangming.github.io/papers/10_F2RNET_.pdf)[[Download]](https://zhangqiangming.github.io/papers/10_F2RNET_.pdf)
-
 
 
 <!-- __<u>Zhangqiang Ming</u>__ -->
