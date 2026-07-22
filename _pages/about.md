@@ -148,15 +148,17 @@ Engineering). I am the first author of this work.
 
 <!--📖 🎓 -->
 # 🎓 Educations
-- *2022.09 - 2026.06 (now)*,  Huazhong University of Science and Technology, Ph.D in Computer Science and Technology. 
+- *2022.09 - 2026.06*,  Huazhong University of Science and Technology, Ph.D in Computer Science and Technology. 
 - *2019.09 - 2019.06*,  Sichuan University, Master's degree in Computer Technology. 
 
 
 
 <!-- 💬 -->
 # 📑 Invited Talks
-- *2025*, ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2025), University of Notre Dame, USA, Oral Presentation.
-- *2024*, ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2024), University of Pisa, Italy, Oral Presentation.
+- *2026*, 63rd THE CHIPS TO SYSTEM CONFERENCE (DAC2026), Long Beach Convention Center, Long Beach, CA, USA, Oral Presentation.
+- *2026*, 42nd IEEE International Conference on Data Engineering (ICDE2026), Fairmont The Queen Elizabeth, Montreal, Canada, Oral Presentation.
+- *2025*, 34th ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2025), University of Notre Dame, Indiana, USA, Oral Presentation.
+- *2024*, 33rd ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2024), University of Pisa, Pisa, Italy, Oral Presentation.
 - *2025*, 2nd CCF China Storage Conference (ChinaStorage2025), Wuhan, China, Poster Presentation.
 - *2024*, 1st CCF China Storage Conference (ChinaStorage2024), Guangzhou, China, Poster Presentation.
 - *2024*, 3rd Annual Academic Conference, School of Computer Science, Huazhong University of Science and Technology, Wuhan, China, Oral Presentation.
