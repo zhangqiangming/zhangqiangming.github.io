@@ -25,7 +25,7 @@ redirect_from:
 
 
 
-#### As of now, I have contributed to more than 14 research papers (8 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CAD&CG, and ICV.
+#### To date, I have contributed to over 14 research papers, 8 of which are published as my first or corresponding author, including ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CAD&CG, and ICV.
 <!-- <a href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
