@@ -85,7 +85,7 @@ Engineering). I am the first author of this work.
 
 
 
--	__<u>Zhangqiang Ming</u>__, Min Zhu, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (__CADCG21__, CCF-A) [[Preview]](https://zhangqiangming.github.io/papers/5_CADCG2021_.pdf)[[Download]](https://zhangqiangming.github.io/papers/5_CADCG2021_.pdf)
+-	Min Zhu, __<u>Zhangqiang Ming*</u>__, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (__CAD&CG__, T1/CCF-A) [[Preview]](https://zhangqiangming.github.io/papers/5_CADCG2021_.pdf)[[Download]](https://zhangqiangming.github.io/papers/5_CADCG2021_.pdf)
 
 
 -	__<u>Zhangqiang Ming</u>__, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[Preview]](https://zhangqiangming.github.io/papers/6_ReID_.pdf)[[Download]](https://zhangqiangming.github.io/papers/6_ReID_.pdf)
