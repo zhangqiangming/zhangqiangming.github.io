@@ -81,7 +81,7 @@ Engineering). I am the first author of this work.
 
 
 
--	__<u>Zhangqiang Ming</u>__, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (__Image and Vision Computing(IVC)__, CCF-C; IF:5.0) [[Preview]](https://zhangqiangming.github.io/papers/4_IVC2022_.pdf)[[Download]](https://zhangqiangming.github.io/papers/4_IVC2022_.pdf)
+-	__<u>Zhangqiang Ming</u>__, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (__Image and Vision Computing(IVC)__, CCF-C, IF:5.0, __CSRanking__) [[Preview]](https://zhangqiangming.github.io/papers/4_IVC2022_.pdf)[[Download]](https://zhangqiangming.github.io/papers/4_IVC2022_.pdf)
 
 
 
