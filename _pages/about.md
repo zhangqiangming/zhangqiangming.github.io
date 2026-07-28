@@ -52,12 +52,12 @@ redirect_from:
 - *2025.10*: &nbsp;🌻🎉 Our paper [SSFusion]() has been accepted to ICDE2026 (The 42st IEEE International Conference on Data
 Engineering). I am the first author of this work.
 - *2025.08*: &nbsp;🌻🎉 I have been invited to serve as a Program Committee Member for the IEEE International Conference on Parallel and Distributed Systems (ICPADS 2025).
-- *2025.07*: &nbsp;🌻🎉 I was awarded the HPDC2025 International Conference Travel Award (1,600 USD).
+- *2025.07*: &nbsp;🌻🎉 I was awarded the HPDC2025 International Conference Travel Award.
 - *2025.04*: &nbsp;🌻🎉 Our paper [ResiReduce]() has been accepted to Euro-Par2025 (The 31st International European Conference on Parallel and Distributed Computing). I contributed as the second author.
 - *2025.03*: &nbsp;🌻🎉 Our paper [SAFusion]() has been accepted to HPDC2025 (The 34th ACM International Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work.
 - *2025.01*: &nbsp;🌻🎉 I was awarded the Best Paper Award at the 3rd Academic Annual Conference of the School of Computer Science, HUST.
 - *2024.12*: &nbsp;🌻🎉 Our project won the First Prize in the 2nd National Information Storage Competition.
-- *2024.06*: &nbsp;🌻🎉 I was awarded the HPDC2024 International Conference Travel Award (850 USD). 
+- *2024.06*: &nbsp;🌻🎉 I was awarded the HPDC2024 International Conference Travel Award. 
 - *2024.04*: &nbsp;🌻🎉 Our paper [ADTopk]() has been accepted to HPDC2024 (The 33rd International Symposium on High-Performance Parallel and Distributed Computing). I am the first author of this work. 
 
 
@@ -128,8 +128,8 @@ Engineering). I am the first author of this work.
 
 
 ### Awards
-- *2025.07*, HPDC2024 International Conference Travel Award (850 USD)
-- *2024.06*, HPDC2025 International Conference Travel Award (1600 USD)
+- *2025.07*, HPDC2024 International Conference Travel Award
+- *2024.06*, HPDC2025 International Conference Travel Award
 - *2023 - 2024*, First Prize, 2nd National College Student Information Storage Technology Competition
 - *2023 - 2024*, Best Paper Award, 3rd Annual Academic Conference, School of Computer Science, HUST 
 - *2022 - 2023*, Outstanding Graduate Student Leader, Huazhong University of Science and Technology, 
@@ -158,11 +158,12 @@ Engineering). I am the first author of this work.
 # 📑 Invited Talks
 - *2026*, 63rd THE CHIPS TO SYSTEM CONFERENCE (DAC2026), Long Beach Convention Center, Long Beach, CA, USA, Oral Presentation.
 - *2026*, 42nd IEEE International Conference on Data Engineering (ICDE2026), Fairmont The Queen Elizabeth, Montreal, Canada, Oral Presentation.
+- *2026*, 4rd Annual Academic Conference, School of Computer Science, HUST, Wuhan, China, Oral Presentation.
 - *2025*, 34th ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2025), University of Notre Dame, Indiana, USA, Oral Presentation.
 - *2024*, 33rd ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC2024), University of Pisa, Pisa, Italy, Oral Presentation.
 - *2025*, 2nd CCF China Storage Conference (ChinaStorage2025), Wuhan, China, Poster Presentation.
 - *2024*, 1st CCF China Storage Conference (ChinaStorage2024), Guangzhou, China, Poster Presentation.
-- *2024*, 3rd Annual Academic Conference, School of Computer Science, Huazhong University of Science and Technology, Wuhan, China, Oral Presentation.
+- *2024*, 3rd Annual Academic Conference, School of Computer Science, HUST, Wuhan, China, Oral Presentation.
 - *2021*, 11th International Conference on Information Science and Technology (ICIST2021), Chengdu, China, In-person Presentation.
 - *2021*, 4th Chinese Conference on Pattern Recognition and Computer Vision (PRCV2021), Beijing, China, In-person Presentation.
 
@@ -178,6 +179,6 @@ Engineering). I am the first author of this work.
 
 
 ### Experiences
-- *2025.05 – 2026.02*, Intelligent Algorithm Research Institute, China Electronics Hikvision Group, Hangzhou, Zhejiang
-- *2021.06 – 2021.09*, Intelligent Algorithm Application Department, Hikvision Research Institute, Chengdu, Sichuan
+- *2025.05 – 2026.02*, Intelligent Algorithm Research Institute, China Electronics Hikvision Group(CETC), Hangzhou, Zhejiang
+- *2021.06 – 2021.09*, Intelligent Algorithm Application Department, Hikvision Research Institute(Hikvision), Chengdu, Sichuan
 - *2017.06 – 2018.01*, Product Development Department, Wuhan Tianyu Software Co., Ltd., Wuhan, Hubei
