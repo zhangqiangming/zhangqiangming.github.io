@@ -25,7 +25,7 @@ redirect_from:
 
 
 
-#### As of now, I have contributed to more than 14 research papers (8 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CADCG, and ICV.
+#### As of now, I have contributed to more than 14 research papers (8 of which I authored as the first or corresponding author), such as ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CAD&CG, and ICV.
 <!-- <a href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
@@ -43,7 +43,7 @@ redirect_from:
  
 <!-- 🔥 -->
 # 🔥 News
-- *2026.07*: &nbsp;🌻🎉 Our extended [ADTopk]() conference paper has been accepted to ACM TACO: The ACM Transactions on Architecture and Code Optimization Journal. I am the first author of this work.
+- *2026.07*: &nbsp;🌻🎉 Our extended HPDC2024 paper ([ADTopk]()) has been accepted to ACM TACO: The ACM Transactions on Architecture and Code Optimization Journal. I am the first author of this work.
 - *2026.06*: &nbsp;🌻🎉 I was awarded the Best Paper Award at the 4th Academic Annual Conference of the School of Computer Science, HUST.
 - *2026.05*: &nbsp;🌻🎉 I successfully passed my doctoral dissertation defense in Computer Architecture at HUST.
 - *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026: The Chips to Systems Conference (The 63rd Design Automation Conference). I am the first author of this work.
