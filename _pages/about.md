@@ -43,7 +43,7 @@ redirect_from:
  
 <!-- 🔥 -->
 # 🔥 News
-- *2026.07*: &nbsp;🌻🎉 Our extended HPDC2024 paper ([ADTopk]()) has been accepted to ACM TACO: The ACM Transactions on Architecture and Code Optimization Journal. I am the first author of this work.
+- *2026.07*: &nbsp;🌻🎉 Our extended paper ([ADTopk]()) has been accepted to ACM TACO: The ACM Transactions on Architecture and Code Optimization Journal. I am the first author of this work.
 - *2026.06*: &nbsp;🌻🎉 I was awarded the Best Paper Award at the 4th Academic Annual Conference of the School of Computer Science, HUST.
 - *2026.05*: &nbsp;🌻🎉 I successfully passed my doctoral dissertation defense in Computer Architecture at HUST.
 - *2026.02*: &nbsp;🌻🎉 Our paper [AsymCheck]() has been accepted to DAC2026: The Chips to Systems Conference (The 63rd Design Automation Conference). I am the first author of this work.
