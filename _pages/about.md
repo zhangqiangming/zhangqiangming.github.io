@@ -43,6 +43,7 @@ redirect_from:
  
 <!-- 🔥 -->
 # 🔥 News
+- *2026.08*: &nbsp;🌻🎉 I served as a member of the ATC '26 Artifact Evaluation Committee (AEC), responsible for artifact evaluation and reproducibility review of conference papers.
 - *2026.07*: &nbsp;🌻🎉 Our extended paper ([ADTopk]()) has been accepted to ACM TACO: ACM Transactions on Architecture and Code Optimization Journal. I am the first author of this work.
 - *2026.06*: &nbsp;🌻🎉 I was awarded the Best Paper Award at the 4th Academic Annual Conference of the School of Computer Science, HUST.
 - *2026.05*: &nbsp;🌻🎉 I successfully passed my doctoral dissertation defense in Computer Architecture at HUST.
