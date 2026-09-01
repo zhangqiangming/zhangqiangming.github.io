@@ -25,7 +25,7 @@ redirect_from:
 
 
 
-#### To date, I have contributed to over 14 research papers, 8 of which are published as my first or corresponding author, including ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CAD&CG, and ICV.
+#### To date, I have contributed to over 14 research papers, 8 of which are published as my first or corresponding author, including ICDE2026, DAC2026, HPDC2025, HPDC2024, EuroPar2025, ACM TACO, CAD&amp;CG, and ICV.
 <!-- <a href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
@@ -67,7 +67,7 @@ Engineering). I am the first author of this work.
 
 # 📝 Publications 
 
--	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Patrick P. C. Lee, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Enabling Efficient All-Dimension Top-k Sparsification for High-Performance Distributed DNN Training Systems."ACM Transactions on Architecture and Code Optimization (__Accepted__, ACM TACO, CCF-A, __CSRanking__)
+-	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Patrick P. C. Lee, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Enabling Efficient All-Dimension Top-k Sparsification for High-Performance Distributed DNN Training Systems."ACM Transactions on Architecture and Code Optimization (__Accepted__, ACM TACO, CCF-A, __CSRanking__)[[Code]](https://github.com/zqming-cs) [[Preview]](https://dl.acm.org/doi/10.1145/3832779))[[Download]](https://dl.acm.org/doi/10.1145/3832779)
 
 
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Zhiyuan Luo, Patrick P. C. Lee, Yuanhao Shu, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training." In Proceedings of the 63rd Design Automation Conference (__DAC'26__, Acceptance Rate=21.7%, CCF-A, __CSRanking__) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)[[Download]](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)
@@ -87,7 +87,7 @@ Engineering). I am the first author of this work.
 
 
 
--	Min Zhu, __<u>Zhangqiang Ming*</u>__, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (__CAD&CG__, T1/CCF-A) [[Preview]](https://zhangqiangming.github.io/papers/5_CADCG2021_.pdf)[[Download]](https://zhangqiangming.github.io/papers/5_CADCG2021_.pdf)
+-	Min Zhu, __<u>Zhangqiang Ming*</u>__, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design&amp;Computer Graphics 34, no. 2 (2022): 163-179. (__CAD&amp;CG__, T1/CCF-A) [[Preview]](https://zhangqiangming.github.io/papers/5_CADCG2021_.pdf)[[Download]](https://zhangqiangming.github.io/papers/5_CADCG2021_.pdf)
 
 
 -	__<u>Zhangqiang Ming</u>__, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[Preview]](https://zhangqiangming.github.io/papers/6_ReID_.pdf)[[Download]](https://zhangqiangming.github.io/papers/6_ReID_.pdf)
