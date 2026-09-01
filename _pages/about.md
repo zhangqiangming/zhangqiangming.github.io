@@ -175,9 +175,9 @@ Engineering). I am the first author of this work.
 ### Projects
 - *2023.06 – 2027.06*, HUST–H3C Joint Laboratory, Storage Construction Project, Intelligent Computing Center, Key Participants.
 - *2023.08 – 2026.08*, Shenzhen Natural Science Foundation (General Program), Research on Key Storage Technologies for Distributed DNN Training Systems, Key Participants.
-- *2021.09 – 2024.09*, National Key R&D Program – Young Scientist Project, Research on Reliability Coding Theory and Techniques for Large-Scale Parallel Computing Systems, Key Participants.
+- *2021.09 – 2024.09*, National Key R&amp;D Program – Young Scientist Project, Research on Reliability Coding Theory and Techniques for Large-Scale Parallel Computing Systems, Key Participants.
 - *2020.09 – 2023.09*, Shenzhen Natural Science Foundation (General Program), Research on Large-Scale All-Flash Cluster Erasure Coding with Low Redundancy Cost, Key Participants. 
-- *2019.09 – 2022.04*, National Key R&D Program, Research and Application of Key Technologies for Target Tracking and Re-Localization, Key Participants.
+- *2019.09 – 2022.04*, National Key R&amp;D Program, Research and Application of Key Technologies for Target Tracking and Re-Localization, Key Participants.
 
 
 ### Experiences
