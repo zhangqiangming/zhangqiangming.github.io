@@ -159,6 +159,7 @@ __, __CAD&amp;CG__, T1/CCF-A) [[Preview]](https://zhangqiangming.github.io/paper
 
 <!-- 💬 -->
 # 📑 Invited Talks
+- *2026*, 32nd CCF National Conference on Information Storage (NCIS 2026), Tianjin, China, Oral Presentation.
 - *2026*, 63rd THE CHIPS TO SYSTEM CONFERENCE (DAC2026), Long Beach Convention Center, Long Beach, CA, USA, Oral Presentation.
 - *2026*, 42nd IEEE International Conference on Data Engineering (ICDE2026), Fairmont The Queen Elizabeth, Montreal, Canada, Oral Presentation.
 - *2026*, 4rd Annual Academic Conference, School of Computer Science, HUST, Wuhan, China, Oral Presentation.
